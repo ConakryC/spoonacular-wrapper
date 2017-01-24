@@ -1,7 +1,7 @@
 import { Http, RequestOptions, Headers } from '@angular/http'
 import 'rxjs/add/operator/map';
 
-const apiKey = 'LGzRSpu12QmshEYgXnbe5NvD91DYp183EV0jsnjoKY7hGWVZs2';
+const apiKey = '';
 const autoCompImages = 'https://spoonacular.com/cdn/ingredients_100x100/';
 
 export class Search {

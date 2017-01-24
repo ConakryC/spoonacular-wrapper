@@ -1,7 +1,7 @@
 "use strict";
 var http_1 = require("@angular/http");
 require("rxjs/add/operator/map");
-var apiKey = 'LGzRSpu12QmshEYgXnbe5NvD91DYp183EV0jsnjoKY7hGWVZs2';
+var apiKey = '';
 var autoCompImages = 'https://spoonacular.com/cdn/ingredients_100x100/';
 var Search = (function () {
     function Search(http) {
